@@ -26,8 +26,7 @@ Tested the app with each of the following three models:
 ```
 python mo_tf.py --input_model frozen_inference_graph.pb --tensorflow_object_detection_api_pipeline_config pipeline.config --reverse_input_channels --tensorflow_use_custom_operations_config extensions/front/tf/ssd_v2_support.json
 ```
--Verdict:
-  - This model was not suitable for this app because the output was not accurate as expected. 
+-Verdict: This model was not suitable for this app because the output was not accurate as expected. 
   
 - Model 2: SSD Inception V2
   - [Model Source](http://download.tensorflow.org/models/object_detection/ssd_inception_v2_coco_2018_01_28.tar.gz)
@@ -36,8 +35,7 @@ python mo_tf.py --input_model frozen_inference_graph.pb --tensorflow_object_dete
 ```
 python mo_tf.py --input_model frozen_inference_graph.pb --tensorflow_object_detection_api_pipeline_config pipeline.config --reverse_input_channels --tensorflow_use_custom_operations_config extensions/front/tf/ssd_v2_support.json
 ```
--Verdict:
-  - Again this model was not appropriate for the app because it has high latency while making predictions.
+-Verdict: Again this model was not appropriate for the app because it has high latency while making predictions.
   
 - Model 3: SSD Coco MobileNet V1
   - [Model Source](http://download.tensorflow.org/models/object_detection/ssd_inception_v2_coco_2018_01_28.tar.gz)
@@ -46,8 +44,7 @@ python mo_tf.py --input_model frozen_inference_graph.pb --tensorflow_object_dete
 ```
 python mo_tf.py --input_model frozen_inference_graph.pb --tensorflow_object_detection_api_pipeline_config pipeline.config --reverse_input_channels --tensorflow_use_custom_operations_config extensions/front/tf/ssd_v2_support.json
 ```
--Verdict:
-  - Once again the model was not suitable for this app because of low inference accuracy. 
+-Verdict: Once again the model was not suitable for this app because of low inference accuracy. 
 
 ## The Models
 
