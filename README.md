@@ -1,17 +1,9 @@
 # Deploy a People Counter App at the Edge
 
-[![](https://img.shields.io/badge/Rishit-Dagli-brightgreen.svg?colorB=00ff00)](https://www.rishit.tech)
-![License](https://img.shields.io/github/license/Rishit-dagli/People-Counter-On-Edge)
-[![Python Version](https://img.shields.io/badge/Python-3.5|3.6-blue.svg)](https://shields.io/)
-![Python Syntax](https://github.com/Rishit-dagli/People-Counter-On-Edge/workflows/Python%20Syntax/badge.svg)
-![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-[![IMAGE ALT TEXT HERE](./images/people-counter-image.png)](https://www.youtube.com/watch?v=gjxRXuFpfgU)
-
-Click the image above to see a video of the demo or use the link [here](https://www.youtube.com/watch?v=gjxRXuFpfgU)
 
 ## What it Does
 
