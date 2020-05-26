@@ -3,6 +3,7 @@
 -This app is optimized to work with minimum latency to work on edge. 
 -The model is optimized with Intel [Open Vino toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html). 
 
+Video Demo of the Project - https://youtu.be/4xyg7dZkiVg 
 ## Explaining Custom Layers
 
 -First the model optimizer searches the list of known layers for each layer in the input model. 
